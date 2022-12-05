@@ -1,4 +1,4 @@
-# zshrc
+# zshrc for virtual machines
 
 скачать файлы в домашнюю директорию пользователя
 
